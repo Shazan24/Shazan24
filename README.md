@@ -1,28 +1,58 @@
-#
-## Hi there 👋 It's me Shazan 
+<h1 align="center">Hi there👋, I'm Mohamed Shazan</h1>
+<h3 align="center">Computer Science Undergraduate</h3>
 
-Computer Science Undergraduate @ University of Westminster
+<br/>
 
----
-### I code in
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" height="50" />
+### 🎓 Education
+- **BSc (Hons) Computer Science** - University of Westminster (Undergraduate)
+
+### 💻 Collaboration Interests
+- Artificial Intelligence and Machine Learning projects
+- DevOps & Cloud Computing
+- Open source contributions
+
+### Technical Skills & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  </a>
 </p>
 
-<!--
-**Shazan24/Shazan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-end
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Version Control
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,discord,devto" />
+  </a>
+</p>
+
+### OS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
+
+
+<h3 align="center">🔗 Connect with me via</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedshazan/">
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mohamedshazan223@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"  alt="Email"/>
+  </a>
+</p>
